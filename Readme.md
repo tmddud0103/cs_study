@@ -46,7 +46,7 @@ git pull` > `git status` > `git add 폴더명.md` and `git add README.md` > `git
 ### 🗂 폴더명
 
 ```bash
-날짜 + 제목(+스터디형식) + 이름
+날짜_제목(+스터디형식)_이름
 # 0801_자료구조 퀴즈_의진
 ```
 
@@ -55,10 +55,10 @@ git pull` > `git status` > `git add 폴더명.md` and `git add README.md` > `git
 ### 📝 Git Commit Message Convention
 
 ```
-Update : 08.01. 파일 제목 
-Upload : 파일제목.md 파일 업로드
-Revise : 수정한 내용 설명
-Delete : 삭제한 파일 설명
+Update : 0801_파일 제목 
+Upload : 파일제목.md_파일_업로드
+Revise : 수정한 내용_설명
+Delete : 삭제한 파일_설명
 ```
 
 

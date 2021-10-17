@@ -39,7 +39,6 @@ SSAFY 6기 서울3반의 컴퓨터 사이언스와 친해지기 위한 스터디
 
 | [euijinbang](https://github.com/euijinbang) | [sungil9561](https://github.com/sungil9561) | [tmddud0103](https://github.com/tmddud0103) | [yeramii](https://github.com/yeramii) | [dudqo225](https://github.com/dudqo225) |
 | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------- | --------------------------------------- |
-|                                             |                                             |                                             |                                       |                                         |
 
 
 

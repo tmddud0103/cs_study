@@ -4,9 +4,13 @@
 
 
 
+
+
 ### 👋 스터디 소개
 
 SSAFY 6기 서울3반의 컴퓨터 사이언스와 친해지기 위한 스터디입니다!
+
+
 
 
 
@@ -29,6 +33,8 @@ SSAFY 6기 서울3반의 컴퓨터 사이언스와 친해지기 위한 스터디
 
 
 
+
+
 ### 👨‍👩‍👧‍👦 Contributors
 
 | [euijinbang](https://github.com/euijinbang) | [sungil9561](https://github.com/sungil9561) | [tmddud0103](https://github.com/tmddud0103) | [yeramii](https://github.com/yeramii) | [dudqo225](https://github.com/dudqo225) |
@@ -39,12 +45,14 @@ SSAFY 6기 서울3반의 컴퓨터 사이언스와 친해지기 위한 스터디
 
 
 
+
+
 ### 📁 Git Rules
 
 ##### 🔜 깃 커밋 순서
 
 ```
-git pull` > `git status` > `git add 폴더명.md` and `git add README.md` > `git commit -m "Upload : 폴더명.md 파일 업로드"` > `git push
+`git pull` > `git status` > `git add 폴더명.md` and `git add README.md` > `git commit -m "Upload : 폴더명.md 파일 업로드"` > `git push`
 ```
 
 
@@ -66,6 +74,8 @@ Upload : 파일제목.md_파일_업로드
 Revise : 수정한 내용_설명
 Delete : 삭제한 파일_설명
 ```
+
+
 
 
 

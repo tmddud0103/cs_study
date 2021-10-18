@@ -51,7 +51,7 @@ SSAFY 6기 서울3반의 컴퓨터 사이언스와 친해지기 위한 스터디
 ##### 🔜 깃 커밋 순서
 
 ```
-`git pull` > `git status` > `git add 폴더명.md` and `git add README.md` > `git commit -m "Upload : 폴더명.md 파일 업로드"` > `git push`
+git pull > git status > git add 폴더명.md and git add 파일명 > git commit -m "Upload : ..." > git push
 ```
 
 
@@ -68,8 +68,8 @@ SSAFY 6기 서울3반의 컴퓨터 사이언스와 친해지기 위한 스터디
 ##### 📝 Git Commit Message Convention
 
 ```
-Update : 0801_파일 제목 
-Upload : 파일제목.md_파일_업로드
+Upload : 업로드날짜(0801)_파일제목_이름
+Update : 업데이트날짜(0801)_파일제목 
 Revise : 수정한 내용_설명
 Delete : 삭제한 파일_설명
 ```
